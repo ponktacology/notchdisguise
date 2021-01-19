@@ -1,0 +1,6 @@
+name: NotchDisguise
+main: me.ponktacology.notchdisguise.NotchDisguisePlugin
+version: 1.0
+author: ponktacology
+commands:
+  notchdisguise:
